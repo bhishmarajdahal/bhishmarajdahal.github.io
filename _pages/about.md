@@ -7,3 +7,6 @@ I am a Ph.D. student in the Department of Agricultural and Resource Economics at
 
 I am an applied microeconomist specializing in energy, environmental, and agricultural issues. My research uses empirical industrial organization and causal inference methods to study how consumers, firms, and producers respond to economic incentives and policy interventions. I received my M.S. from the University of Tennessee, Knoxville.
 
+You can find my CV **[here](/files/CV.pdf)**.
+
+
