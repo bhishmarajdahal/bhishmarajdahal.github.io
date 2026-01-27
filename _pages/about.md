@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /
 title: "Bhishma Raj Dahal"
 author_profile: true
 redirect_from:
