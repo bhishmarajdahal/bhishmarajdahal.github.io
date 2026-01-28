@@ -8,7 +8,7 @@ author_profile: true
 
 ## Working Papers
 
-Bhishma R. Dahal, Seth J. K. Mason, Daniel F. Mooney, Dana L. Hoag, and Jesse Burkhardt. 2025. “Producer willingness to participate in agricultural water conservation programs: Evidence from the Upper Colorado River Basin.” Revisions requested, *Applied Economic Perspectives and Policy*. [[PDF]](/academicpages-temp/files/Dahal_WTA_UCRB_2025.pdf)
+Bhishma R. Dahal, Seth J. K. Mason, Daniel F. Mooney, Dana L. Hoag, and Jesse Burkhardt. 2025. “Producer willingness to participate in agricultural water conservation programs: Evidence from the Upper Colorado River Basin.” Revisions requested, *Applied Economic Perspectives and Policy*.[PDF](/files/Dahal_WTA_UCRB_2025.pdf)
 
 ## Peer-Reviewed Publications
 
