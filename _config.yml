@@ -364,6 +364,6 @@ compress_html:
   ignore:
     envs: development
 
-    include:
+include:
   - google1ebe5fcadedb1ef3.html
 
