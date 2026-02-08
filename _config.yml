@@ -34,6 +34,7 @@ author:
   uri              :
   email            : "bdahal1@colostate.edu"
 
+
   # Academic websites (leave blank if you don't want the icon to show)
   academia         :
   arxiv            :
@@ -362,3 +363,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+    include:
+  - google1ebe5fcadedb1ef3.html
+
