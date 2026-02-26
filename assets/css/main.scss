@@ -60,12 +60,13 @@
 /* ===== Push bio text more to the right ===== */
 @media (min-width: 1024px) {
 
-  .sidebar {
-    width: 27% !important;
+  .layout--single .sidebar {
+    width: 26% !important;
   }
 
-  .page {
-    width: 73% !important;
+  .layout--single .page__content,
+  .layout--single .archive {
+    width: 74% !important;
   }
 
 }
