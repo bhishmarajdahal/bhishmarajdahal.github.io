@@ -40,8 +40,15 @@
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
-;/* ===== Enlarge author profile photo ===== */
-.author__avatar img {
-  width: 280px;   /* adjust size here */
-  height: auto;
+;
+
+/* ===== Enlarge author profile photo (FORCED override) ===== */
+.sidebar .author__avatar {
+  width: 320px !important;        /* change to 300 if too large */
+  max-width: 320px !important;
+}
+
+.sidebar .author__avatar img {
+  width: 100% !important;
+  height: auto !important;
 }
