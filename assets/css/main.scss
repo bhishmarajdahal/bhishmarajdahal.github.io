@@ -41,32 +41,3 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-
-
-/* ===== Avatar: larger but professional ===== */
-.sidebar .author__avatar {
-  width: 280px !important;
-  max-width: 280px !important;
-}
-
-.sidebar .author__avatar img {
-  width: 280px !important;
-  height: 280px !important;
-  object-fit: cover !important;
-  border-radius: 50% !important;
-}
-
-
-/* ===== Push bio text more to the right ===== */
-@media (min-width: 1024px) {
-
-  .layout--single .sidebar {
-    width: 26% !important;
-  }
-
-  .layout--single .page__content,
-  .layout--single .archive {
-    width: 74% !important;
-  }
-
-}
