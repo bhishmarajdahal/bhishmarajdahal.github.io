@@ -42,13 +42,30 @@
     "vendor/font-awesome/brands"
 ;
 
-/* ===== Enlarge author profile photo (FORCED override) ===== */
+
+/* ===== Avatar: larger but professional ===== */
 .sidebar .author__avatar {
-  width: 320px !important;        /* change to 300 if too large */
-  max-width: 320px !important;
+  width: 280px !important;
+  max-width: 280px !important;
 }
 
 .sidebar .author__avatar img {
-  width: 100% !important;
-  height: auto !important;
+  width: 280px !important;
+  height: 280px !important;
+  object-fit: cover !important;
+  border-radius: 50% !important;
+}
+
+
+/* ===== Push bio text more to the right ===== */
+@media (min-width: 1024px) {
+
+  .sidebar {
+    width: 27% !important;
+  }
+
+  .page {
+    width: 73% !important;
+  }
+
 }
