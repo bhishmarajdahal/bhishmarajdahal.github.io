@@ -15,7 +15,7 @@ Do Income-Based Electric Vehicle Incentives Spur Charging Station Entry? Quasi-E
 
 Indirect Network Effects and Subsidy Design: Evidence from the U.S. Electric Vehicle Market (with Matt Woerman)
 
-## Publications
+## Pre-PhD Publications
 
 Bhishma R. Dahal, Karen L. DeLong, Andrew Muhammad, et al. 2025. “Assessing Rwandan restaurant preferences for procuring broiler and indigenous chicken: Implications for the development of a sustainable poultry industry.” *International Food and Agribusiness Management Review*
 
