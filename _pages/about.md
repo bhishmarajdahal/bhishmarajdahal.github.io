@@ -10,4 +10,6 @@ I am an applied microeconomist specializing in energy, environmental, and agricu
 
 You can find my CV **[here](/files/CV.pdf)**.
 
-
+<script>
+  document.body.classList.add('home-page');
+</script>
