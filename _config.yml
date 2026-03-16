@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Bhishma Raj Dahal"
+title                    : "Bhishma R. Dahal"
 title_separator          : "-"
-name                     : &name "Bhishma Raj Dahal"
-description              : &description "Bhishma Raj Dahal"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Bhishma R. Dahal"
+description              : &description "Bhishma R. Dahal"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://bhishmarajdahal.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ repository            : "bhishmarajdahal/bhishmarajdahal.github.io"
 
 author:
   avatar           : "Bhishma.jpg"
-  name             : "Bhishma Raj Dahal"
+  name             : "Bhishma R. Dahal"
   pronouns         :
   bio              : "Ph.D. student in Agricultural and Resource Economics at Colorado State University."
   location         : "Fort Collins, CO, USA"
