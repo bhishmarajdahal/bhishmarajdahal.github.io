@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bhishma Raj Dahal"
+title: "Bhishma Dahal"
 author_profile: true
 classes: home-page
 ---
