@@ -41,10 +41,10 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-/* All pages - rectangular image */
-.author__avatar img {
-  max-width: 280px !important;
-  width: 280px !important;
+/* Home page only - big rectangular image, full width */
+.home-page .author__avatar img {
+  max-width: 100% !important;
+  width: 100% !important;
   height: 350px !important;
   object-fit: cover !important;
   object-position: center top !important;
@@ -52,12 +52,23 @@
   border: none !important;
   padding: 0 !important;
 }
-.author__avatar {
-  width: 280px !important;
+
+.home-page .author__avatar {
+  width: 100% !important;
 }
+
 /* Hide author details on home page only */
 .home-page .author__name,
 .home-page .author__bio,
 .home-page .author__urls-wrapper {
   display: none;
+}
+
+/* Restore default on all other pages */
+body:not(.home-page) .author__avatar img {
+  max-width: 175px !important;
+  width: 100% !important;
+  height: auto !important;
+  border-radius: 50% !important;
+  object-fit: cover !important;
 }
