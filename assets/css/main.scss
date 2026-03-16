@@ -41,15 +41,23 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-.author__avatar img {
-  max-width: 200px;
-  width: 200px;
-  height: 250px;
+/* Home page - bigger rectangular image */
+body.layout--home .author__avatar img {
+  max-width: 280px;
+  width: 280px;
+  height: 350px;
   object-fit: cover;
   object-position: center top;
   border-radius: 0;
 }
 
-.author__avatar {
-  width: 200px;
+body.layout--home .author__avatar {
+  width: 280px;
+}
+
+/* Hide author details below image on home page only */
+body.layout--home .author__name,
+body.layout--home .author__bio,
+body.layout--home .author__urls-wrapper {
+  display: none;
 }
