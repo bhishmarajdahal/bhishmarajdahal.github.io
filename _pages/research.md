@@ -10,6 +10,11 @@ author_profile: true
 
 Bhishma R. Dahal, Seth J. K. Mason, Daniel F. Mooney, Dana L. Hoag, and Jesse Burkhardt. 2025. “Producer willingness to participate in agricultural water conservation programs: Evidence from the Upper Colorado River Basin.” Revisions requested, *Applied Economic Perspectives and Policy*.[PDF](/files/Dahal_WTA_UCRB_2025.pdf)
 
+## Work in Progress
+Do Income-Based Electric Vehicle Incentives Spur Charging Station Entry? Quasi-Experimental Evidence from Low-Income Disadvantaged Communities (with Matt Woerman)
+
+Indirect Network Effects and Subsidy Design: Evidence from the U.S. Electric Vehicle Market (with Matt Woerman)
+
 ## Publications
 
 Bhishma R. Dahal, Karen L. DeLong, Andrew Muhammad, et al. 2025. “Assessing Rwandan restaurant preferences for procuring broiler and indigenous chicken: Implications for the development of a sustainable poultry industry.” *International Food and Agribusiness Management Review*
