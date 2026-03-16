@@ -12,7 +12,7 @@ Bhishma R. Dahal, Seth J. K. Mason, Daniel F. Mooney, Dana L. Hoag, and Jesse Bu
 
 ## Publications
 
-Bhishma R. Dahal, Karen L. DeLong, Andrew Muhammad, et al. 2025. “Assessing Rwandan restaurant preferences for procuring broiler and indigenous chicken: Implications for the development of a sustainable poultry industry.” *International Food and Agribusiness Management Review*, 28(1), 74–92.
+Bhishma R. Dahal, Karen L. DeLong, Andrew Muhammad, et al. 2025. “Assessing Rwandan restaurant preferences for procuring broiler and indigenous chicken: Implications for the development of a sustainable poultry industry.” *International Food and Agribusiness Management Review*
 
 Bhishma R. Dahal, Karen L. DeLong, Shijun Gao, Carola Grebitus, and Andrew Muhammad. 2024. “Factors affecting Chinese consumers’ beef purchase frequency.” *Agribusiness: An International Journal*.
 
