@@ -2,6 +2,7 @@
 permalink: /
 title: "Bhishma Raj Dahal"
 author_profile: true
+classes: home-page
 ---
 I am a Ph.D. student in the Department of Agricultural and Resource Economics at Colorado State University and will be on the job market during the 2026–2027 academic year.
 
