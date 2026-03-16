@@ -52,14 +52,12 @@
   border: none !important;
   padding: 0 !important;
 }
-
 .author__avatar {
   width: 280px !important;
 }
-
 /* Hide author details on home page only */
-.page .author__name,
-.page .author__bio,
-.page .author__urls-wrapper {
+.home-page .author__name,
+.home-page .author__bio,
+.home-page .author__urls-wrapper {
   display: none;
 }
