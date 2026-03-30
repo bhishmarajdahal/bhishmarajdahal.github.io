@@ -10,6 +10,7 @@ Teaching Assistant, AREC 542: Water Resource Economics (Graduate) — Spring 202
 Teaching Assistant, AREC/ECON 535: Applied Econometrics (Graduate) — Fall 2024, 2025  
 Teaching Assistant, AREC 305: Agricultural and Resource Enterprise Analysis — Spring 2026  
 Instructor, AREC 310: Agricultural Marketing (Online) — Spring 2024  
+Instructor, AREC 305: Agricultural and Resource Enterprise Analysis (online) — Summer 2026
 
 ## University of Tennessee, Knoxville
 
