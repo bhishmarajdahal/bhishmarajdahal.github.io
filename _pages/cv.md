@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download CV – Bhishma Raj Dahal](/files/Bhishma_Raj_Dahal_CV.pdf)
+[Download CV – Bhishma Raj Dahal](/files/cv.pdf)
 
 
 
