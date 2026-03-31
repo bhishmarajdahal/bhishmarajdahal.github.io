@@ -7,7 +7,9 @@ redirect_from:
   - /resume
 ---
 
-[Download CV – Bhishma Raj Dahal](/files/cv.pdf)
+You can download my CV using the link below:
+
+[Download CV – Bhishma Dahal](/files/cv.pdf){:target="_blank" rel="noopener noreferrer}
 
 
 
