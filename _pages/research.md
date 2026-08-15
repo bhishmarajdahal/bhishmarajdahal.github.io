@@ -8,14 +8,14 @@ author_profile: true
 
 ## Working Papers
 
-Bhishma R. Dahal, Seth J. K. Mason, Daniel F. Mooney, Dana L. Hoag, and Jesse Burkhardt. 2025. “Producer willingness to participate in agricultural water conservation programs: Evidence from the Upper Colorado River Basin.” Revisions requested, *Applied Economic Perspectives and Policy*.
+Bhishma R. Dahal, Seth J. K. Mason, Daniel F. Mooney, Dana L. Hoag, and Jesse Burkhardt. 2025. “Producer willingness to participate in agricultural water conservation programs: Evidence from the Upper Colorado River Basin.” Revisions requested (Second Round), *Applied Economic Perspectives and Policy*.
 
 ## Work in Progress
 Do Income-Based Electric Vehicle Incentives Spur Charging Station Entry? Quasi-Experimental Evidence from Low-Income Disadvantaged Communities (with Matt Woerman)
 
 Indirect Network Effects and Subsidy Design: Evidence from the U.S. Electric Vehicle Market (with Matt Woerman)
 
-Wildfire Smoke, Solar Disruption, and Electricity Market
+Wildfire Smoke, Solar Electricity Generation, and Wholesale Electricity Markets: Evidence from Texas ( With Matt Woerman and Jessee Burkhardt)
 
 ## Pre-PhD Publications
 
