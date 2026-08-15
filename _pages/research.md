@@ -15,7 +15,7 @@ Do Income-Based Electric Vehicle Incentives Spur Charging Station Entry? Quasi-E
 
 Indirect Network Effects and Subsidy Design: Evidence from the U.S. Electric Vehicle Market (with Matt Woerman)
 
-Wildfire Smoke, Solar Electricity Generation, and Wholesale Electricity Markets: Evidence from Texas ( With Matt Woerman and Jessee Burkhardt)
+Wildfire Smoke, Solar Electricity Generation, and Wholesale Electricity Markets: Evidence from Texas (With Matt Woerman and Jessee Burkhardt)
 
 ## Pre-PhD Publications
 
